@@ -1,4 +1,4 @@
-# Prototype
+# Teleheath-Hackathon-Prototype
 
 The interactive prototype is hosted in Google AI Studio.
 
